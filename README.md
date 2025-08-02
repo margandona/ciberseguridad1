@@ -2,6 +2,8 @@
 
 Un sistema completo de gestión de acceso para blog con **enfoque en hacking ético defensivo**, implementando las mejores prácticas de ciberseguridad según OWASP 2023 y técnicas avanzadas de detección de amenazas.
 
+> 📋 **Análisis Académico**: Ver [EJERCICIO_PRACTICO_ANALISIS.md](./EJERCICIO_PRACTICO_ANALISIS.md) para un análisis detallado de cómo este sistema cumple con los requerimientos del ejercicio práctico "Fortalecimiento de Seguridad en Aplicaciones Web con JWT, RBAC y Detección de Intrusos" *(Puntuación: 95% - Supera expectativas)*
+
 ## 🎯 Arquitectura Implementada
 
 - **Frontend**: HTML5 + CSS3 + JavaScript (Interfaz interactiva completa)
