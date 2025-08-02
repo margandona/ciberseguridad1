@@ -44,8 +44,8 @@ Un sistema completo de gestión de acceso para blog con **enfoque en hacking ét
 
 1. **Clonar el repositorio**
 ```bash
-git clone <repository-url>
-cd login
+git clone https://github.com/margandona/ciberseguridad1.git
+cd ciberseguridad1
 ```
 
 2. **Instalar dependencias**
