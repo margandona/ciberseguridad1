@@ -1,0 +1,19 @@
+name: "Sistema de Ciberseguridad"
+description: "Sistema completo de autenticación y autorización con enfoque en ciberseguridad avanzada y hacking ético defensivo"
+topics:
+  - nodejs
+  - expressjs
+  - mongodb
+  - cybersecurity
+  - authentication
+  - authorization
+  - security
+  - jwt
+  - bcrypt
+  - owasp
+  - ethical-hacking
+  - defensive-security
+  - audit-logging
+  - honeypot
+  - rate-limiting
+homepage: "https://github.com/margandona/ciberseguridad1"
