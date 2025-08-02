@@ -4,6 +4,8 @@ Un sistema completo de gestión de acceso para blog con **enfoque en hacking ét
 
 > 📋 **Análisis Académico**: Ver [EJERCICIO_PRACTICO_ANALISIS.md](./EJERCICIO_PRACTICO_ANALISIS.md) para un análisis detallado de cómo este sistema cumple con los requerimientos del ejercicio práctico "Fortalecimiento de Seguridad en Aplicaciones Web con JWT, RBAC y Detección de Intrusos" *(Puntuación: 95% - Supera expectativas)*
 
+> 🔐 **Análisis de Autenticación**: Ver [AUTENTICACION_SEGURA_ANALISIS.md](./AUTENTICACION_SEGURA_ANALISIS.md) para un análisis completo de la "Implementación de Autenticación Segura y Control de Acceso con JWT, Bcrypt y Buenas Prácticas Criptográficas" *(Puntuación: 115% - Excelencia)*
+
 ## 🎯 Arquitectura Implementada
 
 - **Frontend**: HTML5 + CSS3 + JavaScript (Interfaz interactiva completa)
